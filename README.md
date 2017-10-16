@@ -1,13 +1,6 @@
-# zhihu
+# cnode
 
-知乎日报 手机端
-
-通过proxyTable{...}实现接口访问。
-
-运行截图请看[XXX版](https://github.com/1008611/vue-zhihu)
-
-基于该版本修改后的[XXX版](https://github.com/1008611/vue-zhihu)，可以打包生成apk
-
+cnode 手机端
 
 ### 声明
 
